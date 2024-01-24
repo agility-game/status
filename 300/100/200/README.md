@@ -13,3 +13,5 @@ See [README.md](./200/README.md)
 See [README.md](./300/README.md)
 
 That’s it! Your SvelteKit app will be live on your Render URL as soon as the build finishes and the service starts.
+
+Visit https://kener.onrender.com/ to see the web site.
