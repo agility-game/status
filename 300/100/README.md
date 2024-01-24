@@ -6,6 +6,6 @@ A sample app is deployed at [https://sveltekit-app.onrender.com](https://sveltek
 
 See [README.md](./100/README.md)
 
-## 200 - Manual Deploy
+## 200 - Manual Deploy (Our Choice)
 
 See [README.md](./200/README.md)
