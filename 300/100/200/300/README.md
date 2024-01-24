@@ -3,5 +3,5 @@
 | Key | Value |
 | -- | -- |
 | **Runtime** | ```Node``` |
-| **Build Command** | ```npm install && npm run build``` |
+| **Build Command** | ```npm install; npm run build``` |
 | **Start Command** | ```node build/index.js``` |
